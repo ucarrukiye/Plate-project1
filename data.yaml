@@ -1,0 +1,7 @@
+path: /Users/rukiyeucar/Desktop/Goruntu_ısleme/plate-project/data
+train: images
+val: images
+
+nc: 1
+names:
+  0: plaka

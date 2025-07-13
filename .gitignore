@@ -1,0 +1,19 @@
+# Derleme ve geçici dosyalar
+__pycache__/
+*.pyc
+*.log
+*.DS_Store
+
+# Model dosyaları
+*.h5
+*.keras
+*.pt
+*.npy
+
+# Veri klasörünün içindeki görüntü ve etiket dosyaları
+data/images/*
+data/labels/*
+
+# Jupyter/VSCode/IDE vs. artefact'lar
+.vscode/
+.idea/
